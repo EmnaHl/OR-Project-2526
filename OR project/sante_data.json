@@ -1,0 +1,81 @@
+{
+    "siege": {
+        "x": 54,
+        "y": 635
+    },
+    "nb_infirmieres": 8,
+    "infirmieres": [
+        {
+            "id": "INF-1",
+            "prenom": "Maya",
+            "nom": "Nejib",
+            "sexe": "Femme",
+            "cin": "46420220",
+            "age": 40,
+            "specialite": "Urgences"
+        },
+        {
+            "id": "INF-2",
+            "prenom": "Nesrine",
+            "nom": "Ajili",
+            "sexe": "Femme",
+            "cin": "70289268",
+            "age": 31,
+            "specialite": "Urgences"
+        },
+        {
+            "id": "INF-3",
+            "prenom": "Farah",
+            "nom": "Hammami",
+            "sexe": "Femme",
+            "cin": "60759881",
+            "age": 23,
+            "specialite": "P\u00e9diatrie"
+        },
+        {
+            "id": "INF-4",
+            "prenom": "Anis",
+            "nom": "Dahmani",
+            "sexe": "Homme",
+            "cin": "30417176",
+            "age": 40,
+            "specialite": "Oncologie"
+        },
+        {
+            "id": "INF-5",
+            "prenom": "Salma",
+            "nom": "Gharbi",
+            "sexe": "Femme",
+            "cin": "82430721",
+            "age": 42,
+            "specialite": "Chirurgie"
+        },
+        {
+            "id": "INF-6",
+            "prenom": "Aymen",
+            "nom": "Fakhfakh",
+            "sexe": "Homme",
+            "cin": "46531212",
+            "age": 38,
+            "specialite": "Urgences"
+        },
+        {
+            "id": "INF-7",
+            "prenom": "Bilel",
+            "nom": "Fendri",
+            "sexe": "Homme",
+            "cin": "75046982",
+            "age": 39,
+            "specialite": "Chirurgie"
+        },
+        {
+            "id": "INF-8",
+            "prenom": "Asma",
+            "nom": "Sbai",
+            "sexe": "Femme",
+            "cin": "89505323",
+            "age": 49,
+            "specialite": "Cardiologie"
+        }
+    ]
+}
