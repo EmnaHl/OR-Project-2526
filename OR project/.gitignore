@@ -1,7 +1,12 @@
-# Ignore Python cache
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Ignore system files
-.DS_Store
-Thumbs.db
+# Windows
+desktop.ini
+
+# Environnements
+venv/
+.env/
